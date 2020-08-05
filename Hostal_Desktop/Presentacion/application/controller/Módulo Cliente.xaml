@@ -1,0 +1,62 @@
+﻿<UserControl x:Class="Presentacion.application.controller.Módulo_Cliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion.application.controller"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d"
+         Height="1000" Width="1000">
+
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="center" Width="1000">
+            
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="60">
+                <materialDesign:PackIcon Kind="CardAccountDetails"  VerticalAlignment="Bottom" Margin="0 19 19 16" Height="30" />
+                <Label Content="Módulo Clientes" HorizontalAlignment="Center" Margin="10" FontSize="20" FontWeight="Bold" FontStyle="Italic" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="110" Margin="50,10">
+                <TextBox x:Name="txt_Buscar" HorizontalAlignment="Left" materialDesign:HintAssist.Hint="BUSCAR RUT" Height="40" Width="300"/>
+                <Button Content="Buscar"  Margin="40" VerticalAlignment="Top" Width="75" Background="#71b100" RenderTransformOrigin="0.606,0.496" Click="Btn_buscar_cliente" Height="30"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="20" Height="40">
+                
+                <materialDesign:PackIcon Kind="UserCardDetails" Margin="0 4 10 10" Height="30"/>
+                <TextBox x:Name="txt_rut" materialDesign:HintAssist.Hint="Rut Cliente" Width="250" Margin="0 0 70 0" IsEnabled="False"/>
+                <materialDesign:PackIcon Kind="Person" Margin="0 4 10 10" Height="30"/>
+                <TextBox x:Name="txt_nombre_cliente" materialDesign:HintAssist.Hint="Nombre Cliente" Width="250" IsEnabled="False"/>
+                
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="20" Height="40">
+                <materialDesign:PackIcon Kind="House" Margin="0 4 10 10" Height="30"/>
+                <TextBox x:Name="txt_direccion" materialDesign:HintAssist.Hint="Dirección" Width="250" Margin="0 0 70 0" IsEnabled="False"/>
+                <materialDesign:PackIcon Kind="Phone" Margin="0 4 10 10 " Height="30"/>
+                <TextBox x:Name="txt_telefono" materialDesign:HintAssist.Hint="Teléfono" Width="250" IsEnabled="False"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Width="700" Margin="40">
+                <DataGrid x:Name="dtg_Clientes" IsEnabled="True"  Width="700" Height="200" AutoGenerateColumns="True" HorizontalContentAlignment="Center" BorderBrush="#71b100">
+                    
+                </DataGrid>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="60" Margin="10">
+                <Button x:Name="btn_modificar" Content="Modificar" IsEnabled="True" Background="#EFBA06" Margin="10 10 100 10" Width="100" RenderTransformOrigin="0.606,0.496" Click="Btn_modificar_cliente"/>
+                <Button x:Name="btn_eliminar" Content="Eliminar" IsEnabled="True" Background="#f44336"  Margin="100 10 10 10" Width="100" RenderTransformOrigin="0.606,0.496" Click="Btn_eliminar_cliente"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <Label x:Name="lbl_mensaje" HorizontalAlignment="center" Focusable="False" Width="300"></Label>
+            </StackPanel>
+        </StackPanel>
+
+
+
+
+        
+
+    </Grid>
+</UserControl>

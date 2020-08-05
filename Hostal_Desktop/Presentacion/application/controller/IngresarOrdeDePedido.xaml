@@ -1,0 +1,64 @@
+﻿<UserControl x:Class="Presentacion.application.controller.IngresarOrdeDePedido"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion.application.controller"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d"
+         Height="1000" Width="1000">
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Width="1000">
+
+            <!--Título del módulo-->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="60">
+                <materialDesign:PackIcon Kind="FileDocument"  VerticalAlignment="Bottom" Margin="0 19 19 16" Height="30" />
+                <Label x:Name="lbl_pedido" Content="Ingreso Órdenes de Pedido" HorizontalAlignment="Center" Margin="10" FontSize="20" FontWeight="Bold" FontStyle="Italic" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <materialDesign:PackIcon Kind="UserAdd" Margin=" 0 4 10 10" Height="30"/>
+                <TextBox x:Name="txt_usuario" materialDesign:HintAssist.Hint="Nombre Usuario" FontStyle="Italic" Width="250" Margin="0 0 70 0"/>
+
+                <materialDesign:PackIcon Kind="OrderNumericAscending" VerticalAlignment="Bottom" Margin=" 0 4 10 10" Height="30"/>
+                <TextBox x:Name="txt_numero_orden" materialDesign:HintAssist.Hint="N° Orden de Pedido" FontStyle="Italic" Width="250"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="40">
+                <materialDesign:PackIcon Kind="CardAccountDetails"  Margin=" 0 4 10 10" Height="30"/>
+                <TextBox x:Name="txt_rut_proveedor" materialDesign:HintAssist.Hint="Rut Proveedor" FontStyle="Italic" Width="250" Margin=" 0 0 70 0"/>
+
+                <materialDesign:PackIcon Kind="Food"  Margin=" 0 4 10 10" Height="30"/>
+                <TextBox x:Name="txt_nombre_producto" materialDesign:HintAssist.Hint="Nombre Producto" FontStyle="Italic" Width="250"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="40">
+                <materialDesign:PackIcon Kind="Barcode" Margin=" 0 4 10 10" Height="30"/>
+                <TextBox x:Name="txt_codigo_producto" materialDesign:HintAssist.Hint="Código Producto" FontStyle="Italic" Width="250" Margin="0 0 70 0"/>
+
+                <materialDesign:PackIcon Kind="Counter" Margin=" 0 4 10 10" Height="30"/>
+                <TextBox x:Name="txt_cantidad" materialDesign:HintAssist.Hint="Cantidad" FontStyle="Italic" Width="250"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="40">
+                <materialDesign:PackIcon Kind="FileDocument" Margin=" 0 4 10 10" Height="30"/>
+                <TextBox x:Name="txt_descripcion_producto" materialDesign:HintAssist.Hint="Descripción Producto" FontStyle="Italic" Width="250" Margin="0 0 70 0"/>
+                <DatePicker Width="250" materialDesign:HintAssist.Hint="Fecha de Ingreso">
+                    
+                </DatePicker>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="20">
+                <materialDesign:PackIcon Kind="Dollar" Margin="175 4 10 10" Height="30"/>
+                <TextBox x:Name="txt_precio" materialDesign:HintAssist.Hint="Precio" Width="250"/>
+            </StackPanel>
+
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="35">
+                <Button Background="#71b100" Content="Agregar" Width="200" RenderTransformOrigin="0.606,0.496"></Button>
+            </StackPanel>
+
+        </StackPanel>
+
+    </Grid>
+</UserControl>

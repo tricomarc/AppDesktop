@@ -1,0 +1,100 @@
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Test.dll
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Test.pdb
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Modelo.exe
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Persistencia.exe
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\netstandard.dll
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Modelo.pdb
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Modelo.exe.config
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Persistencia.pdb
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Persistencia.exe.config
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\obj\Debug\Test.dll
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\obj\Debug\Test.pdb
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Test.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Test.pdb
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Persistencia.exe
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\netstandard.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Modelo.exe.config
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Persistencia.pdb
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Persistencia.exe.config
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\obj\Debug\Test.csproj.CopyComplete
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\obj\Debug\Test.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Test\obj\Debug\Test.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\Test.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\Test.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\Persistencia.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\netstandard.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\Modelo.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\Persistencia.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\Persistencia.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\obj\Debug\Test.csproj.CopyComplete
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\obj\Debug\Test.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Test\obj\Debug\Test.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\Test.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\Test.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\Persistencia.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\netstandard.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\Modelo.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\Persistencia.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\Persistencia.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\obj\Debug\Test.csproj.CopyComplete
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\obj\Debug\Test.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Test\obj\Debug\Test.pdb

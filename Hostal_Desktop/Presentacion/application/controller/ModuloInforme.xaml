@@ -1,0 +1,70 @@
+﻿<UserControl x:Class="Presentacion.application.controller.ModuloInforme"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion.application.controller"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d"
+        Height="1000" Width="1000">
+    <Grid>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="center" Width="1000">
+
+
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Width="1000">
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="60">
+                    <materialDesign:PackIcon Kind="File"  VerticalAlignment="Bottom" Margin="0 19 19 16" Height="30" />
+                    <Label Content="Emisión Informes" HorizontalAlignment="Center" Margin="10" FontSize="20" FontWeight="Bold" FontStyle="Italic" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="60" Margin="20">
+                    <materialDesign:PackIcon Kind="Person" Margin="10 14 10 10" Height="30" />
+                    <Label Content="Información Clientes " FontSize="15" Margin="30,16,30,1" Width="325"/>
+                    <RadioButton x:Name="rdb_clientes" FontStyle="Italic" Width="188"/>
+                </StackPanel>
+
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="60" Margin="20">
+                    <materialDesign:PackIcon Kind="Bed" Margin="10 14 10 10" Height="30" />
+                    <Label Content="Información Huéspedes " FontSize="15" Margin="30,16,30,1" Width="325"/>
+                    <RadioButton x:Name="rdb_huespedes" FontStyle="Italic" Width="188"/>
+                </StackPanel>
+
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="60" Margin="20">
+                    <materialDesign:PackIcon Kind="Factory" Margin="10 14 10 10" Height="30" />
+                    <Label Content="Información Proveedores " FontSize="15" Margin="30,16,30,1" Width="325"/>
+                    <RadioButton x:Name="rdb_proveedore" FontStyle="Italic" Width="188"/>
+                </StackPanel>
+
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="60" Margin="20">
+                    <materialDesign:PackIcon Kind="DriveDocument" Margin="10 14 10 10" Height="30" />
+                    <Label Content="Información Facturas " FontSize="15" Margin="30,16,30,1" Width="325"/>
+                    <RadioButton x:Name="rdb_facturas" FontStyle="Italic" Width="188"/>
+                </StackPanel>
+
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="60" Margin="20">
+                    <materialDesign:PackIcon Kind="Food" Margin="10 14 10 10" Height="30" />
+                    <Label Content="Información Órdenes de Pedido " FontSize="15" Margin="30,16,30,1" Width="325"/>
+                    <RadioButton x:Name="rdb_orden_pedido" FontStyle="Italic" Width="188"/>
+                </StackPanel>
+
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="60" Margin="20">
+                    <materialDesign:PackIcon Kind="OrderNumericAscending" Margin="10 14 10 10" Height="30" />
+                    <Label Content="Información Orde de Compra " FontSize="15" Margin="30,16,30,1" Width="325"/>
+                    <RadioButton x:Name="rdb_orden_compra" FontStyle="Italic" Width="188"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="40">
+                    <Button Background="#71b100" Content="Emitir Informe" Width="200" RenderTransformOrigin="0.606,0.496"></Button>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</UserControl>

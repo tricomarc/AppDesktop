@@ -1,0 +1,60 @@
+﻿<UserControl x:Class="Presentacion.application.controller.AgregarCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion.application.controller"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d"
+         Height="700" Width="1000">
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="center" Width="1000">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="60">
+                <materialDesign:PackIcon Kind="Person"  VerticalAlignment="Bottom" Margin="0 19 19 16" Height="30" />
+                <Label x:Name="lbl_agregar_cliente" Content="Agregar Clientes" HorizontalAlignment="Center" Margin="10" FontSize="20" FontWeight="Bold" FontStyle="Italic" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <materialDesign:PackIcon Kind="CardAccountDetails"  Margin="0 4 10 10" Height="30" />
+                <TextBox x:Name="txt_Rut" ToolTip="Ingrese rut del Cliente" materialDesign:HintAssist.Hint="Ingrese Rut" FontStyle="Italic" Height="30" Width="300" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <materialDesign:PackIcon Kind="UserAdd" Margin="0 4 10 10" Height="30" />
+                <TextBox x:Name="txt_Usuario" ToolTip="Ingrese usuario" materialDesign:HintAssist.Hint="Usuario" FontStyle="Italic" Height="30" Width="300"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <materialDesign:PackIcon Kind="KeyAdd"  Margin="0 4 10 10" Height="30" />
+                <PasswordBox x:Name="txt_Password" ToolTip="Ingrese contraseña" materialDesign:HintAssist.Hint="Contraseña" FontStyle="Italic" Height="30" Width="300"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <materialDesign:PackIcon Kind="Person"  Margin="0 4 10 10" Height="30" />
+                <TextBox x:Name="txt_NombreCliente" ToolTip="Ingrese nombre completo del cliente" materialDesign:HintAssist.Hint="Nombre Cliente" FontStyle="Italic" Height="30" Width="300"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <materialDesign:PackIcon Kind="House"  Margin="0 4 10 10" Height="30" />
+                <TextBox x:Name="txt_Direccion" ToolTip="Ingrese dirección" materialDesign:HintAssist.Hint="Dirección" Width="300"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <materialDesign:PackIcon Kind="Phone"  Margin="0 4 10 10" Height="30" />
+                <TextBox x:Name="txt_Telefono" ToolTip="Ingrese número de télefono" materialDesign:HintAssist.Hint="Teléfono" Width="300"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <Button Background="#71b100" Content="Agregar" Width="200" RenderTransformOrigin="0.606,0.496" Click="Btn_agregar_cliente"></Button>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <Label x:Name="lbl_mensaje" HorizontalAlignment="center" Focusable="False" Width="300"></Label>
+            </StackPanel>
+
+        </StackPanel>
+        
+        
+        
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,12 @@
+E:\Duoc 5° Semestre\Portafolio\Proyecto\Solución\Solución\Solución\Hostal_Desktop_2\Persistencia\bin\x86\Debug\Persistencia.exe.config
+E:\Duoc 5° Semestre\Portafolio\Proyecto\Solución\Solución\Solución\Hostal_Desktop_2\Persistencia\bin\x86\Debug\Persistencia.exe
+E:\Duoc 5° Semestre\Portafolio\Proyecto\Solución\Solución\Solución\Hostal_Desktop_2\Persistencia\bin\x86\Debug\Persistencia.pdb
+E:\Duoc 5° Semestre\Portafolio\Proyecto\Solución\Solución\Solución\Hostal_Desktop_2\Persistencia\bin\x86\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Portafolio\Proyecto\Solución\Solución\Solución\Hostal_Desktop_2\Persistencia\bin\x86\Debug\Oracle.ManagedDataAccess.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\Solución\Solución\Solución\Hostal_Desktop_2\Persistencia\bin\x86\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Portafolio\Proyecto\Solución\Solución\Solución\Hostal_Desktop_2\Persistencia\bin\x86\Debug\Modelo.exe.config
+E:\Duoc 5° Semestre\Portafolio\Proyecto\Solución\Solución\Solución\Hostal_Desktop_2\Persistencia\obj\x86\Debug\Persistencia.csprojAssemblyReference.cache
+E:\Duoc 5° Semestre\Portafolio\Proyecto\Solución\Solución\Solución\Hostal_Desktop_2\Persistencia\obj\x86\Debug\Persistencia.csproj.CoreCompileInputs.cache
+E:\Duoc 5° Semestre\Portafolio\Proyecto\Solución\Solución\Solución\Hostal_Desktop_2\Persistencia\obj\x86\Debug\Persistencia.csproj.CopyComplete
+E:\Duoc 5° Semestre\Portafolio\Proyecto\Solución\Solución\Solución\Hostal_Desktop_2\Persistencia\obj\x86\Debug\Persistencia.exe
+E:\Duoc 5° Semestre\Portafolio\Proyecto\Solución\Solución\Solución\Hostal_Desktop_2\Persistencia\obj\x86\Debug\Persistencia.pdb

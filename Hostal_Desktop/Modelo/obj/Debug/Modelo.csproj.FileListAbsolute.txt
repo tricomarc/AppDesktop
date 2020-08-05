@@ -1,0 +1,52 @@
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\bin\Debug\Modelo.exe
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\obj\Debug\Modelo.exe
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\obj\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\bin\Debug\Modelo.exe.config
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\bin\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\bin\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\obj\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\obj\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Modelo\bin\Debug\Modelo.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Modelo\bin\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Modelo\bin\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Modelo\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Modelo\obj\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Modelo\obj\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Modelo\bin\Debug\Modelo.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Modelo\bin\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Modelo\bin\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Modelo\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Modelo\obj\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Modelo\obj\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Modelo\bin\Debug\Modelo.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Modelo\bin\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Modelo\bin\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Modelo\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Modelo\obj\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Modelo\obj\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Modelo\bin\Debug\Modelo.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Modelo\bin\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Modelo\bin\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Modelo\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Modelo\obj\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Modelo\obj\Debug\Modelo.pdb

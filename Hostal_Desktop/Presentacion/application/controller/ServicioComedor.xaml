@@ -1,0 +1,62 @@
+﻿<UserControl x:Class="Presentacion.application.controller.ServicioComedor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion.application.controller"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d"
+        Height="800" Width="1000">
+    <Grid>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="center" Width="1000">
+
+
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Width="1000">
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="60">
+                    <materialDesign:PackIcon Kind="CardAccountDetails"  VerticalAlignment="Bottom" Margin="0 19 19 16" Height="30" />
+                    <Label Content="Módulo Servicio" HorizontalAlignment="Center" Margin="10" FontSize="20" FontWeight="Bold" FontStyle="Italic" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 10">
+                    <materialDesign:PackIcon Kind="IdCard" Margin=" 20 14 0 0" Height="30"/>
+                    <TextBox x:Name="txt_id" materialDesign:HintAssist.Hint="ID Servicio" Width="250" Margin="20"/>
+                </StackPanel>
+                
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 10">
+                    <materialDesign:PackIcon Kind="Food" Margin="20 14 0 0" Height="30"/>
+                    <TextBox x:Name="txt_plato" materialDesign:HintAssist.Hint="Nombre Plato" Width="250" Margin="20"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 10">
+                    <materialDesign:PackIcon Kind="ClipboardList" Margin="20 14 0 0" Height="30"/>
+                    <TextBox x:Name="txt_descripcion" materialDesign:HintAssist.Hint="Descripción" Width="250" Margin="20"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 10">
+                    <materialDesign:PackIcon Kind="DateRange" Margin="20 14 0 0" Height="30"/>
+                    <TextBox x:Name="txt_dia" materialDesign:HintAssist.Hint=" Día" Width="250" Margin="20"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin=" 0 10">
+                    <materialDesign:PackIcon Kind="Dollar" Margin="20 14 0 0" Height="30"/>
+                    <TextBox x:Name="txt_precio" materialDesign:HintAssist.Hint="Rubro" Width="250" Margin="20"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 10">
+                    <ComboBox x:Name="cmb_Rol" Width="250" Margin="35 14 0 0" materialDesign:HintAssist.Hint="Seleccione Servicio" >
+                        <ComboBoxItem>Buffet</ComboBoxItem>
+                        <ComboBoxItem>Ejecutivo</ComboBoxItem>
+                        <ComboBoxItem>Especial</ComboBoxItem>
+                        <ComboBoxItem>General</ComboBoxItem>
+                    </ComboBox>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="40">
+                    <Button Background="#71b100" Content="Agregar" Width="200" RenderTransformOrigin="0.606,0.496" Click="Btn_agregar_servicio"></Button>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

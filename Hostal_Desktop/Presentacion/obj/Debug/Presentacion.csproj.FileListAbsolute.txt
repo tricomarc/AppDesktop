@@ -1,0 +1,955 @@
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\application\controller\AgregarHuesped.g.cs
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\application\controller\ModuloNavegacion.g.cs
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\App.g.cs
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\application\controller\AgregarHuesped.baml
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\application\controller\ModuloNavegacion.baml
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\damarisrosales\Desktop\portafolio\Hostal_Desktop\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.exe.config
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarCliente.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarFactura.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarHuesped.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarProveedor.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Ayuda.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Ingresar Orden de compra.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\IngresarOrdeDePedido.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ModuloInforme.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Módulo Cliente.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloFactura.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloOrdenDeCompra.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloOrdenDePedido.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloProveedor.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ReservaHabitación.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Habitaciones.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ModuloNavegacion.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloComedor.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloHuéspedes.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ServicioComedor.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\App.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion_Content.g.cs
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\Cristian Carreño\Downloads\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.exe.config
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarCliente.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarFactura.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarHuesped.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarProveedor.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Ayuda.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Ingresar Orden de compra.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\IngresarOrdeDePedido.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ModuloInforme.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Módulo Cliente.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloFactura.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloOrdenDeCompra.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloOrdenDePedido.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloProveedor.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ReservaHabitación.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Habitaciones.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ModuloNavegacion.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloComedor.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloHuéspedes.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ServicioComedor.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\App.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion_Content.g.cs
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Presentacion.exe.config
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Presentacion.exe
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Presentacion.pdb
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\netstandard.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.AppContext.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Collections.Concurrent.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Collections.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Collections.NonGeneric.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Collections.Specialized.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.ComponentModel.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Console.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Data.Common.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.Debug.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.Process.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.Tools.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Drawing.Primitives.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Dynamic.Runtime.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Globalization.Calendars.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Globalization.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Globalization.Extensions.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.Compression.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.FileSystem.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.Pipes.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Linq.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Linq.Expressions.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Linq.Parallel.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Linq.Queryable.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.Http.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.NameResolution.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.NetworkInformation.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.Ping.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.Primitives.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.Requests.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.Security.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.Sockets.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.WebSockets.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.ObjectModel.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Reflection.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Reflection.Extensions.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Reflection.Primitives.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Resources.Reader.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Resources.ResourceManager.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Resources.Writer.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.Extensions.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.Handles.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.InteropServices.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.Numerics.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Security.Claims.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Security.Principal.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Security.SecureString.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Text.Encoding.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Text.RegularExpressions.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Threading.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Threading.Overlapped.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Threading.Tasks.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Threading.Thread.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Threading.ThreadPool.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Threading.Timer.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.ValueTuple.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Xml.XDocument.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Xml.XmlDocument.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Xml.XPath.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\EntityFramework.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\FontAwesome.WPF.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\MaterialDesignColors.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Persistencia.exe
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Remotion.Linq.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Buffers.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Collections.Immutable.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Interactive.Async.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Memory.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Numerics.Vectors.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Persistencia.pdb
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Persistencia.exe.config
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\EntityFramework.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\FontAwesome.WPF.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\MaterialDesignColors.pdb
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Remotion.Linq.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Buffers.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Collections.Immutable.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Interactive.Async.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Memory.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Numerics.Vectors.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\bin\Debug\Modelo.exe.config
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\App.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarCliente.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarFactura.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarHuesped.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarProveedor.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Ayuda.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Ingresar Orden de compra.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\IngresarOrdeDePedido.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ModuloInforme.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Módulo Cliente.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloFactura.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloOrdenDeCompra.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloOrdenDePedido.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloProveedor.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ReservaHabitación.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Habitaciones.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ModuloNavegacion.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloComedor.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloHuéspedes.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ServicioComedor.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.g.resources
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.exe
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.pdb
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Login.baml
+E:\Duoc 5° Semestre\Portafolio\Proyecto\HOSTAL_CLARITA\HOSTAL_CLARITA\Solución\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Login.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Login.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarCliente.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarFactura.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarHuesped.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarProveedor.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Ayuda.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Ingresar Orden de compra.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\IngresarOrdeDePedido.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ModuloInforme.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Módulo Cliente.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloFactura.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloOrdenDeCompra.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloOrdenDePedido.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloProveedor.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ReservaHabitación.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Habitaciones.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ModuloNavegacion.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloComedor.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloHuéspedes.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ServicioComedor.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Login.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\App.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion_Content.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Presentacion.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Presentacion.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Presentacion.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\netstandard.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.AppContext.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Collections.Concurrent.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Collections.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Collections.NonGeneric.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Collections.Specialized.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.ComponentModel.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Console.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Data.Common.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.Debug.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.Process.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.Tools.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Drawing.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Dynamic.Runtime.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Globalization.Calendars.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Globalization.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Globalization.Extensions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.Compression.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.FileSystem.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.Pipes.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Linq.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Linq.Expressions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Linq.Parallel.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Linq.Queryable.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.Http.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.NameResolution.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.NetworkInformation.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.Ping.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.Requests.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.Security.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.Sockets.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Net.WebSockets.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.ObjectModel.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Reflection.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Reflection.Extensions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Reflection.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Resources.Reader.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Resources.ResourceManager.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Resources.Writer.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.Extensions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.Handles.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.InteropServices.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.Numerics.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Security.Claims.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Security.Principal.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Security.SecureString.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Text.Encoding.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Text.RegularExpressions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Threading.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Threading.Overlapped.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Threading.Tasks.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Threading.Thread.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Threading.ThreadPool.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Threading.Timer.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.ValueTuple.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Xml.XDocument.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Xml.XmlDocument.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Xml.XPath.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\EntityFramework.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\FontAwesome.WPF.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\MaterialDesignColors.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Negocio.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Persistencia.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Remotion.Linq.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Buffers.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Collections.Immutable.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Interactive.Async.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Memory.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Numerics.Vectors.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Modelo.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Negocio.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Negocio.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Persistencia.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Persistencia.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\EntityFramework.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\FontAwesome.WPF.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\MaterialDesignColors.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\Remotion.Linq.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Buffers.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Collections.Immutable.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Interactive.Async.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Memory.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Numerics.Vectors.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\App.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarCliente.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarFactura.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarHuesped.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\AgregarProveedor.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Ayuda.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Ingresar Orden de compra.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\IngresarOrdeDePedido.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ModuloInforme.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Módulo Cliente.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloFactura.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloOrdenDeCompra.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloOrdenDePedido.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloProveedor.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ReservaHabitación.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\Habitaciones.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ModuloNavegacion.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloComedor.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\MóduloHuéspedes.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\application\controller\ServicioComedor.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.g.resources
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\Hostal_Desktop_2\Presentacion\obj\Debug\Presentacion.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Login.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarCliente.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarFactura.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarHuesped.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarProveedor.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Ayuda.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Ingresar Orden de compra.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\IngresarOrdeDePedido.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ModuloInforme.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Módulo Cliente.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloFactura.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloOrdenDeCompra.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloOrdenDePedido.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloProveedor.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ReservaHabitación.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Habitaciones.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ModuloNavegacion.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloComedor.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloHuéspedes.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ServicioComedor.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Login.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\App.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion_Content.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Login.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarCliente.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarFactura.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarHuesped.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarProveedor.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Ayuda.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Ingresar Orden de compra.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\IngresarOrdeDePedido.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ModuloInforme.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Módulo Cliente.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloFactura.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloOrdenDeCompra.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloOrdenDePedido.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloProveedor.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ReservaHabitación.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Habitaciones.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ModuloNavegacion.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloComedor.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloHuéspedes.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ServicioComedor.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Login.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\App.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion_Content.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Presentacion.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Presentacion.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Presentacion.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\netstandard.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.AppContext.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Collections.Concurrent.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Collections.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Collections.NonGeneric.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Collections.Specialized.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.ComponentModel.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Console.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Data.Common.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.Debug.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.Process.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.Tools.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Drawing.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Dynamic.Runtime.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Globalization.Calendars.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Globalization.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Globalization.Extensions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.Compression.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.FileSystem.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.Pipes.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Linq.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Linq.Expressions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Linq.Parallel.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Linq.Queryable.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.Http.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.NameResolution.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.NetworkInformation.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.Ping.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.Requests.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.Security.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.Sockets.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.WebSockets.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.ObjectModel.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Reflection.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Reflection.Extensions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Reflection.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Resources.Reader.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Resources.ResourceManager.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Resources.Writer.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.Extensions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.Handles.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.InteropServices.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.Numerics.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Security.Claims.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Security.Principal.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Security.SecureString.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Text.Encoding.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Text.RegularExpressions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Threading.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Threading.Overlapped.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Threading.Tasks.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Threading.Thread.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Threading.ThreadPool.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Threading.Timer.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.ValueTuple.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Xml.XDocument.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Xml.XmlDocument.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Xml.XPath.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\EntityFramework.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\FontAwesome.WPF.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\MaterialDesignColors.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Negocio.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Persistencia.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Remotion.Linq.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Buffers.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Collections.Immutable.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Interactive.Async.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Memory.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Numerics.Vectors.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Modelo.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Negocio.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Negocio.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Persistencia.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Persistencia.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\EntityFramework.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\FontAwesome.WPF.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\MaterialDesignColors.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\Remotion.Linq.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Buffers.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Collections.Immutable.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Interactive.Async.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Memory.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Numerics.Vectors.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\App.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarCliente.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarFactura.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarHuesped.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarProveedor.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Ayuda.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Ingresar Orden de compra.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\IngresarOrdeDePedido.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ModuloInforme.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Módulo Cliente.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloFactura.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloOrdenDeCompra.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloOrdenDePedido.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloProveedor.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ReservaHabitación.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Habitaciones.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ModuloNavegacion.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloComedor.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloHuéspedes.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ServicioComedor.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.g.resources
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Solución_V2\Solución\Hostal_Desktop_2\hostal_clarita\Hostal 4\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Presentacion.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Presentacion.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Presentacion.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\netstandard.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.AppContext.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Collections.Concurrent.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Collections.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Collections.NonGeneric.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Collections.Specialized.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.ComponentModel.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Console.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Data.Common.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.Debug.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.Process.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.Tools.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Drawing.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Dynamic.Runtime.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Globalization.Calendars.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Globalization.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Globalization.Extensions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.Compression.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.FileSystem.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.Pipes.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Linq.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Linq.Expressions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Linq.Parallel.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Linq.Queryable.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.Http.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.NameResolution.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.NetworkInformation.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.Ping.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.Requests.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.Security.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.Sockets.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Net.WebSockets.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.ObjectModel.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Reflection.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Reflection.Extensions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Reflection.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Resources.Reader.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Resources.ResourceManager.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Resources.Writer.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.Extensions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.Handles.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.InteropServices.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.Numerics.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Security.Claims.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Security.Principal.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Security.SecureString.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Text.Encoding.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Text.RegularExpressions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Threading.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Threading.Overlapped.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Threading.Tasks.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Threading.Thread.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Threading.ThreadPool.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Threading.Timer.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.ValueTuple.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Xml.XDocument.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Xml.XmlDocument.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Xml.XPath.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\EntityFramework.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\FontAwesome.WPF.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\MaterialDesignColors.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Modelo.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Negocio.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Persistencia.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Remotion.Linq.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Buffers.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Collections.Immutable.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Interactive.Async.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Memory.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Numerics.Vectors.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Modelo.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Modelo.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Negocio.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Negocio.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Persistencia.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Persistencia.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\EntityFramework.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\FontAwesome.WPF.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\MaterialDesignColors.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\Remotion.Linq.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Buffers.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Collections.Immutable.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Interactive.Async.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Memory.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Numerics.Vectors.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.exe.config
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Login.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarCliente.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarFactura.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarHuesped.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarProveedor.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Ayuda.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Ingresar Orden de compra.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\IngresarOrdeDePedido.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ModuloInforme.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Módulo Cliente.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloFactura.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloOrdenDeCompra.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloOrdenDePedido.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloProveedor.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ReservaHabitación.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Habitaciones.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ModuloNavegacion.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloComedor.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloHuéspedes.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ServicioComedor.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Login.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\App.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion_Content.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\App.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarCliente.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarFactura.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarHuesped.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\AgregarProveedor.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Ayuda.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Ingresar Orden de compra.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\IngresarOrdeDePedido.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ModuloInforme.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Módulo Cliente.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloFactura.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloOrdenDeCompra.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloOrdenDePedido.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloProveedor.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ReservaHabitación.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\Habitaciones.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ModuloNavegacion.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloComedor.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\MóduloHuéspedes.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\application\controller\ServicioComedor.baml
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.g.resources
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.exe
+E:\Duoc 5° Semestre\Versiones Portafolio\Hostal_Desktop_3\Presentacion\obj\Debug\Presentacion.pdb

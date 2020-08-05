@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="Presentacion.application.controller.Ingresar_Orden_de_compra"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion.application.controller"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d"
+        Height="1000" Width="1000">
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="center" Width="1000">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="60">
+                <materialDesign:PackIcon Kind="OrderNumericAscending"  VerticalAlignment="Bottom" Margin="0 19 19 16" Height="30" />
+                <Label x:Name="lbl_orden_compra" Content="Ingresar Orden de Compra" HorizontalAlignment="Center" Margin="10" FontSize="20" FontWeight="Bold" FontStyle="Italic" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <materialDesign:PackIcon Kind="CardAccountDetails"  Margin="0 4 10 10" Height="30" />
+                <TextBox x:Name="txt_id_orden" materialDesign:HintAssist.Hint="ID Orden de Compra" FontStyle="Italic" Height="30" Width="300" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <materialDesign:PackIcon Kind="Person" Margin="0 4 10 10" Height="30" />
+                <TextBox x:Name="txt_nombre_cliente" materialDesign:HintAssist.Hint="Nombre Cliente" FontStyle="Italic" Height="30" Width="300"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <materialDesign:PackIcon Kind="CardAccountDetails"  Margin="0 4 10 10" Height="30" />
+                <TextBox x:Name="txt_rut_cliente" materialDesign:HintAssist.Hint="Rut Cliente" FontStyle="Italic" Height="30" Width="300"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <materialDesign:PackIcon Kind="Person"  Margin="0 4 10 10" Height="30" />
+                <TextBox x:Name="txt_nombre_huesped" materialDesign:HintAssist.Hint="Nombre Huésped" FontStyle="Italic" Height="30" Width="300"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <materialDesign:PackIcon Kind="Person"  Margin="0 4 10 10" Height="30" />
+                <TextBox x:Name="txt_apellido_huesped" materialDesign:HintAssist.Hint="Apellido Huésped" Width="300"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <materialDesign:PackIcon Kind="Bed"  Margin="0 4 10 10" Height="30" />
+                <TextBox x:Name="txt_numero_habitacion" materialDesign:HintAssist.Hint="N° Habitación" Width="300"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="40" Margin="20">
+                <Button Background="#71b100" Content="Agregar" Width="200" RenderTransformOrigin="0.606,0.496"></Button>
+            </StackPanel>
+
+        </StackPanel>
+
+    </Grid>
+</UserControl>
